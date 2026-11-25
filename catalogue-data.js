@@ -1,77 +1,5 @@
 const catalogue = [
 	{
-		"id": "bedsheet-brown-beige-leaf",
-		"name": "Brown & Beige Leaf Double Bedsheet",
-		"category": "Bedsheets",
-		"description": "Geometric leaf print in brown and beige. 240 TC cotton blend, 90 × 108 inches, with two pillow covers.",
-		"amazon": "https://www.amazon.in/dp/B0HSQPCZL2",
-		"images": [
-			"https://m.media-amazon.com/images/I/711QlqwSmiL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/81vWn+osJCL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/71ss-9wUAoL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/71zEyVBpx-L._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/81Qp7ukM-BL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/71EQ8IAzfjL._SL1254_.jpg"
-		]
-	},
-	{
-		"id": "bedsheet-mustard-grey-triangle",
-		"name": "Mustard & Grey Triangle Double Bedsheet",
-		"category": "Bedsheets",
-		"description": "Geometric triangle print in mustard yellow, grey, and black. 240 TC cotton blend, 90 × 108 inches, with two pillow covers.",
-		"amazon": "https://www.amazon.in/dp/B0HSSCG1MP",
-		"images": [
-			"https://m.media-amazon.com/images/I/81CJwTDCI-L._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/71VurCmza8L._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/71vdhVV89aL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/71is1IzIxVL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/71N7-vvFKoL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/81vvPkoMLOL._SL1254_.jpg"
-		]
-	},
-	{
-		"id": "bedsheet-navy-feather",
-		"name": "Navy Feather Double Bedsheet",
-		"category": "Bedsheets",
-		"description": "Multicolour feather print on navy blue. 240 TC cotton blend, 90 × 108 inches, with two pillow covers.",
-		"amazon": "https://www.amazon.in/dp/B0HSSKYRN2",
-		"images": [
-			"https://m.media-amazon.com/images/I/81RWhXmArbL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/81u8FI1f1kL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/71gBAwO5PjL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/819OUcEe5-L._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/71Z+rd+wAYL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/81VAE0aSwwL._SL1254_.jpg"
-		]
-	},
-	{
-		"id": "bedsheet-red-floral-patchwork",
-		"name": "Red Floral Patchwork Double Bedsheet",
-		"category": "Bedsheets",
-		"description": "Geometric floral patchwork in red, maroon, and beige. 240 TC cotton blend, 90 × 108 inches, with two pillow covers.",
-		"amazon": "https://www.amazon.in/dp/B0HST1912F",
-		"images": [
-			"https://m.media-amazon.com/images/I/81CZ67GzyeL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/81K2nitU5-L._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/81FIq2wLTAL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/81kxKLggrQL._SL1254_.jpg"
-		]
-	},
-	{
-		"id": "bedsheet-maroon-beige-leaf",
-		"name": "Maroon & Beige Leaf Double Bedsheet",
-		"category": "Bedsheets",
-		"description": "Geometric leaf print in maroon and beige. 240 TC cotton blend, 90 × 108 inches, with two pillow covers.",
-		"amazon": "https://www.amazon.in/dp/B0HSSR8V4K",
-		"images": [
-			"https://m.media-amazon.com/images/I/81nQBrBr+WL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/71LoEATMKzL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/71yZtSN0F2L._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/81LzoeX-yXL._SL1254_.jpg",
-			"https://m.media-amazon.com/images/I/81paHTUtGYL._SL1254_.jpg"
-		]
-	},
-	{
 		"id": "pink-heart-pendant",
 		"name": "Pink Heart Pendant Set",
 		"category": "Necklaces",
@@ -113,20 +41,6 @@ const catalogue = [
 				"url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/pendant-locket/6/9/d/na-na-kri-hp-001-kriomya-original-imaht2npeugsxeqb.jpeg?q=70",
 				"platform": "flipkart"
 			}
-		]
-	},
-	{
-		"id": "pink-heart-pendant-alt",
-		"name": "Pink Heart Pendant Set – Variant",
-		"category": "Necklaces",
-		"description": "Pink heart pendant with a chain and cubic zirconia detailing. Photos show this Flipkart listing.",
-		"flipkart": "https://www.flipkart.com/kriomya-heart-pink-pendant-cubic-zirconia-stainless-steel-set/p/itmfa1ae9e8bb025?pid=PELHT2NPXXQZBPE4",
-		"images": [
-			"https://rukmini1.flixcart.com/image/1500/1500/xif0q/pendant-locket/z/m/v/na-na-kri-hp-001-kriomya-original-imaht2npzpnfgggj.jpeg?q=70",
-			"https://rukmini1.flixcart.com/image/1500/1500/xif0q/pendant-locket/a/v/r/na-na-kri-hp-001-kriomya-original-imaht2npf63y3fby.jpeg?q=70",
-			"https://rukmini1.flixcart.com/image/1500/1500/xif0q/pendant-locket/n/m/y/na-na-kri-hp-001-kriomya-original-imaht2npssfjhhza.jpeg?q=70",
-			"https://rukmini1.flixcart.com/image/1500/1500/xif0q/pendant-locket/h/g/1/na-na-kri-hp-001-kriomya-original-imaht2npskvgnhtv.jpeg?q=70",
-			"https://rukmini1.flixcart.com/image/1500/1500/xif0q/pendant-locket/y/2/l/na-na-kri-hp-001-kriomya-original-imaht2nparzzfvnu.jpeg?q=70"
 		]
 	},
 	{
